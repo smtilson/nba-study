@@ -79,7 +79,7 @@ def page_adaboost_model_body():
         "86.28% and an accuracy of 86.60% on the test set. During our search, "
         "it felt like we were approaching the limit of what the model was "
         "capable of. Please see our notebook Tuning Hyperparameters for more "
-        "details.  [Here](https://github.com/smtilson/pp5-ml-dashboard) is a "
+        "details.  [Here](https://github.com/smtilson/nba-study) is a "
         "link to the github repository."
     )
     st.success("This validates Hypothesis 3.")

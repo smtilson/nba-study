@@ -1,5 +1,5 @@
 # NBA Home Team
-[NBA Home Team](https://pp5-ml-dashboard-2d67a903a4d3.herokuapp.com/#results) is a machine learning (ML) project aimed at gaining insight into NBA statistics and building ML pipelines that can predict the outcome of games. We used publicly available data to build two classification pipelines and one clustering pipeline. The two classification pipelines give insight into which statistics may be undervalued when assessing future performance. We also clustered the data to see if the statistics could be used to determine which era of basketball a game belonged to.
+[NBA Home Team](https://nba-study-2d67a903a4d3.herokuapp.com/#results) is a machine learning (ML) project aimed at gaining insight into NBA statistics and building ML pipelines that can predict the outcome of games. We used publicly available data to build two classification pipelines and one clustering pipeline. The two classification pipelines give insight into which statistics may be undervalued when assessing future performance. We also clustered the data to see if the statistics could be used to determine which era of basketball a game belonged to.
 
 ## Table of Contents
 - [Dataset](#dataset)
