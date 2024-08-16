@@ -1,0 +1,17 @@
+pandas
+matplotlib
+seaborn
+feature-engine
+scikit-learn
+
+# commented out for deployment
+# uncomment to run notebooks
+yellowbrick
+Jinja2==3.1.1
+MarkupSafe==2.0.1
+pingouin
+ppscore
+ipywidgets
+ipython
+xgboost
+numpy

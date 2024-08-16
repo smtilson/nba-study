@@ -77,5 +77,9 @@ def page_hypotheses_body():
         "methods in this app. We have also provided some visualizations "
         "of our results and a predictor using our two final pipelines."
     )
+<<<<<<< HEAD
     st.info("[Here](https://github.com/smtilson/nba-study) is a link "
+=======
+    st.info("[Here](https://github.com/smtilson/pp5-ml-dashboard) is a link "
+>>>>>>> d2b60ed (initial commit in wsl)
             "to the github repository.")

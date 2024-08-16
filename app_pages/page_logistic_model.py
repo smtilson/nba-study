@@ -83,7 +83,11 @@ def page_logistic_model_body():
         "87.64% and an accuracy of 87.93% on the test set. We feel that we "
         "were approaching the limit of what the model was capable of. Please "
         "see our notebook Tuning Hyperparameters for more details. [Here]"
+<<<<<<< HEAD
         "(https://github.com/smtilson/nba-study) is a link to the "
+=======
+        "(https://github.com/smtilson/pp5-ml-dashboard) is a link to the "
+>>>>>>> d2b60ed (initial commit in wsl)
         "github repository."
     )
     st.write("## Pipeline")
